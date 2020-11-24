@@ -4,7 +4,7 @@
 - Universal
 - Swift
 - iOS Deployment Target : 9.0
-- [Kakao 이미지 검색 API](https://developers.kakao.com/docs/restapi/search#%EC%9D%B4%EB%AF%B8%EC%A7%80-%EA%B2%80%EC%83%89) 이용. (JSON 사용)
+- [Daum 이미지 검색 API](https://developers.kakao.com/docs/latest/ko/daum-search/dev-guide) 이용. (JSON 사용)
 - Network : [Alamofire](https://github.com/Alamofire/Alamofire)
 - Image Downloader : [Kingfisher](https://github.com/onevcat/Kingfisher)
 - 하나의 화면으로 구성 (Presenting, Push 사용 금지)
